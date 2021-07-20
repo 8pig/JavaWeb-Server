@@ -1,6 +1,6 @@
 package com.zhou.web;
 
-import com.alibaba.druid.pool.DruidDataSourceFactory;
+import com.alibaba.druid.pool2.DruidDataSourceFactory;
 
 import javax.sql.DataSource;
 import java.io.IOException;
